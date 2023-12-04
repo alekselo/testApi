@@ -1,17 +1,58 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
+  "posts": [
+    {
+      "link": "1",
+      "image": "https://ownrwallet.com/storage/app/uploads/public/655/e05/9c2/655e059c223ee606897581.webp",
+      "title": "NFT Projects: Maintaining Community Engagement with These 12 Strategies",
+      "date": "23 NOVEMBER 2023",
+      "subtitle": "In this article, 12 members of Cointelegraph Innovation Circle share practical, effective tips for NFT project leaders to ensure a strong launch, build an engaged community, and foster mutual growth and prosperity.",
+      "text": "Sustaining an active and loyal community plays a pivotal role in the long-term success of NFT projects. Communities supporting nonfungible token initiatives seek a sense of involvement, connection, and the belief that they are part of something unique and valuable. This holds true for the NFT space, where a robust, engaged community can offer invaluable insights and long-term investment opportunities for project leaders. Furthermore, community members can help generate buzz, potentially driving up the value of their NFT holdings and contributing to the growth of the project ecosystem through their own initiatives. In this article, 12 members of Cointelegraph Innovation Circle share practical, effective tips for NFT project leaders to ensure a strong launch, build an engaged community, and foster mutual growth and prosperity.",
+      "tag": ""
     },
-    "porno": {
-        "name": "Tiffany Tatum"
+    {
+      "link": "2",
+      "image": "https://ownrwallet.com/storage/app/uploads/public/655/e03/644/655e036444cda377819229.webp",
+      "title": "What are open-source protocols, and how do they work?",
+      "date": "23 NOVEMBER 2023",
+      "subtitle": "Open-source protocols have become a cornerstone of the technology world, gaining popularity due to their numerous advantages compared to proprietary alternatives. These protocols are typically designed with the intention of being available to the public, allowing anyone to inspect, modify, and share their code.",
+      "text": "## Exploring Open-Source Protocols\nOpen-source protocols have become a cornerstone of the technology world, gaining popularity due to their numerous advantages compared to proprietary alternatives. These protocols are typically designed with the intention of being available to the public, allowing anyone to inspect, modify, and share their code. The benefits of open-source protocols are multifaceted, ranging from their inherent transparency to their broad accessibility. Moreover, they rely on peer evaluations, which is a cost-effective and inclusive model that sets them apart from their proprietary counterparts. Prominent examples of open-source software include widely used operating systems like Linux and Android, as well as the popular Firefox web browser. In the realm of open-source cryptographic protocols, notable blockchain protocol exemplars include Bitcoin, Ethereum, Cardano, and Polkadot, among others.",
+      "tag": "Latest"
+    },
+    {
+      "link": "https://ownrwallet.com/storage/app/uploads/public/655/c5b/3f7/655c5b3f786b7718535044.webp",
+      "image": "three",
+      "title": "Understanding Reed's Law and Its Significance in the Crypto Space",
+      "date": "21 NOVEMBER 2023",
+      "subtitle": "Reed's Law, coined by Harvard professor David P. Reed in 1999, extends the concept of network effects, emphasizing the role of communities and subgroups within a network.",
+      "text": "Reed's Law, coined by Harvard professor David P. Reed in 1999, extends the concept of network effects, emphasizing the role of communities and subgroups within a network. In this article, 12 members of Cointelegraph Innovation Circle share practical, effective tips for NFT project leaders to ensure a strong launch, build an engaged community, and foster mutual growth and prosperity. In this article, 12 members of Cointelegraph Innovation Circle share practical, effective tips for NFT project leaders to ensure a strong launch, build an engaged community, and foster mutual growth and prosperity. In this article, 12 members of Cointelegraph Innovation Circle share practical, effective tips for NFT project leaders to ensure a strong launch, build an engaged community, and foster mutual growth and prosperity. In this article, 12 members of Cointelegraph Innovation Circle share practical, effective tips for NFT project leaders to ensure a strong launch, build an engaged community, and foster mutual growth and prosperity.",
+      "tag": "Economy"
+    },
+    {
+      "link": "4",
+      "image": "https://ownrwallet.com/storage/app/uploads/public/655/c5e/e6e/655c5ee6eb56c652921631.webp",
+      "title": "What is the Pareto 80 20 rule?",
+      "date": "21 NOVEMBER 2023",
+      "subtitle": "The Pareto principle highlights the importance of identifying significant players, major cryptocurrencies, or influential projects. According to this principle, often referred to as the 80/20 rule, roughly 80% of outcomes stem from 20% of the causes.",
+      "text": "The Pareto principle highlights the importance of identifying significant players, major cryptocurrencies, or influential projects. According to this principle, often referred to as the 80/20 rule, roughly 80% of outcomes stem from 20% of the causes.",
+      "tag": "Economy"
+    },
+    {
+      "link": "5",
+      "image": "https://ownrwallet.com/storage/app/uploads/public/655/611/270/655611270155f578777464.webp",
+      "title": "A Guide to Developing a DApp on Ethereum",
+      "date": "16 NOVEMBER 2023",
+      "subtitle": "To embark on the journey of creating a DApp on Ethereum, developers should employ various development tools, craft secure smart contracts, design a user-friendly front-end, and conduct thorough testing before deploying their creation",
+      "text": "To embark on the journey of creating a DApp on Ethereum, developers should employ various development tools, craft secure smart contracts, design a user-friendly front-end, and conduct thorough testing before deploying their creation",
+      "tag": "Crypto"
+    },
+    {
+      "link": "6",
+      "image": "https://ownrwallet.com/storage/app/uploads/public/655/603/15c/65560315c9f3d957523336.webp",
+      "title": "Regulation of Stablecoins Worldwide: Europe and Ukraine",
+      "date": "16 NOVEMBER 2023",
+      "subtitle": "As of the end of October 2023, the total market capitalization of stablecoins has exceeded $124 billion, and in 2022, the volume of transactions in these assets nearly equaled that of Visa. The active use of \"stablecoins\" has attracted the attention of regulators to this segment. The Financial Stability Board has presented recommendations for its control, and many countries are developing their own standards for stablecoins.",
+      "text": "As of the end of October 2023, the total market capitalization of stablecoins has exceeded $124 billion, and in 2022, the volume of transactions in these assets nearly equaled that of Visa. The active use of \"stablecoins\" has attracted the attention of regulators to this segment. The Financial Stability Board has presented recommendations for its control, and many countries are developing their own standards for stablecoins.",
+      "tag": "Crypto"
     }
-  }
+  ]
+}
